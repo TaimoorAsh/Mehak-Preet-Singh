@@ -1,0 +1,2 @@
+1,patient1,pass1,Patient,patient1@email.com,NHS123456,1990-01-01,HIST001,John,Doe,patient1@email.com,07123456789,123 Main Street, Birmingham
+2,samanthaw,test1,Patient,samantha@email.com,5646546546,2000-10-10,,Samantha,Wheeler,samantha@email.com,044564895413,ABC ADDRESS
